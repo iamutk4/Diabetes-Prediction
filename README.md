@@ -35,7 +35,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/iamutk4/Diabetes-Prediction.git
 ```
 2. Navigate to project directory
    ```
