@@ -14,6 +14,9 @@ This project aims to predict whether a patient has diabetes or not based on vari
 
 5. **Model Evaluation:** The accuracy of the trained model is evaluated on both the training and testing datasets. Accuracy score serves as a metric to measure the model's performance in predicting diabetes.
 
+![screenshot](https://github.com/iamutk4/Diabetes-Prediction/assets/69798933/fc5aceb3-1171-4521-8805-b458d65e5068)
+
+
 ## Libraries Used:
 
 - `numpy`: For numerical computations
